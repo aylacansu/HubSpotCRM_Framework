@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="7" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="38553" started-at="2020-07-17T19:50:34 CDT" finished-at="2020-07-17T19:51:13 CDT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="38553" started-at="2020-07-17T19:50:34 CDT" finished-at="2020-07-17T19:51:13 CDT">
+      <class name="com.qa.hubspot.tests.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@5f341870]" name="setUp" is-config="true" duration-ms="3583" started-at="2020-07-17T19:50:53 CDT" finished-at="2020-07-17T19:50:56 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginPageTitle()[pri:1, instance:com.qa.hubspot.tests.LoginPageTest@5f341870]" name="verifyLoginPageTitle" duration-ms="3544" started-at="2020-07-17T19:50:57 CDT" finished-at="2020-07-17T19:51:01 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitle -->
+        <test-method status="PASS" signature="verifySignUpLinkTest()[pri:2, instance:com.qa.hubspot.tests.LoginPageTest@5f341870]" name="verifySignUpLinkTest" duration-ms="831" started-at="2020-07-17T19:51:01 CDT" finished-at="2020-07-17T19:51:01 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignUpLinkTest -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.qa.hubspot.tests.LoginPageTest@5f341870]" name="loginTest" duration-ms="4467" started-at="2020-07-17T19:51:01 CDT" finished-at="2020-07-17T19:51:06 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@5f341870]" name="tearDown" is-config="true" duration-ms="4374" started-at="2020-07-17T19:51:08 CDT" finished-at="2020-07-17T19:51:13 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hubspot.tests.LoginPageTest -->
+      <class name="com.qa.hubspot.tests.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.hubspot.tests.HomePageTest@14bf9759]" name="setUp" is-config="true" duration-ms="18654" started-at="2020-07-17T19:50:34 CDT" finished-at="2020-07-17T19:50:53 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:com.qa.hubspot.tests.HomePageTest@14bf9759]" name="verifyHomePageTitleTest" duration-ms="8" started-at="2020-07-17T19:50:56 CDT" finished-at="2020-07-17T19:50:56 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="verifyHomePageHeaderName()[pri:2, instance:com.qa.hubspot.tests.HomePageTest@14bf9759]" name="verifyHomePageHeaderName" duration-ms="8" started-at="2020-07-17T19:50:56 CDT" finished-at="2020-07-17T19:50:56 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageHeaderName -->
+        <test-method status="PASS" signature="verifyLoggedInUserTest()[pri:3, instance:com.qa.hubspot.tests.HomePageTest@14bf9759]" name="verifyLoggedInUserTest" duration-ms="620" started-at="2020-07-17T19:50:56 CDT" finished-at="2020-07-17T19:50:57 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoggedInUserTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.HomePageTest@14bf9759]" name="tearDown" is-config="true" duration-ms="2436" started-at="2020-07-17T19:51:06 CDT" finished-at="2020-07-17T19:51:08 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hubspot.tests.HomePageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

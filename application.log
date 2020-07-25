@@ -1,0 +1,364 @@
+2020-07-25 02:32:26,741 DEBUG [TestNG-tests-1] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:26,744 DEBUG [TestNG-tests-1] Preferences:118 - Preference chrome=84 (valid until 2020-07-25 03:18:19)
+2020-07-25 02:32:26,744 DEBUG [TestNG-tests-1] WebDriverManager:601 - Detected Google Chrome version 84
+2020-07-25 02:32:26,745 DEBUG [TestNG-tests-1] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:26,745 DEBUG [TestNG-tests-1] Preferences:118 - Preference chrome84=84.0.4147.30 (valid until 2020-07-25 03:18:19)
+2020-07-25 02:32:26,746  INFO [TestNG-tests-1] WebDriverManager:615 - Using chromedriver 84.0.4147.30 (since Google Chrome 84 is installed in your machine)
+2020-07-25 02:32:26,746 DEBUG [TestNG-tests-1] WebDriverManager:536 - Managing chromedriver arch=64 version=84.0.4147.30 getLatest=false cache=false
+2020-07-25 02:32:26,746 DEBUG [TestNG-tests-1] WebDriverManager:868 - Checking if chromedriver exists in cache
+2020-07-25 02:32:26,747 DEBUG [TestNG-tests-1] Downloader:116 - Target path /Users/ic/.m2/repository/webdriver
+2020-07-25 02:32:26,754 DEBUG [TestNG-tests-1] WebDriverManager:920 - Filter cache by chromedriver -- input list [/Users/ic/.m2/repository/webdriver/IEDriverServer/x64/3.150/IEDriverServer.exe, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/83.0.4103.39/chromedriver, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver, /Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver, /Users/ic/.m2/repository/webdriver/resolution.properties] -- output list [/Users/ic/.m2/repository/webdriver/chromedriver/mac64/83.0.4103.39/chromedriver, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver] 
+2020-07-25 02:32:26,754 DEBUG [TestNG-tests-1] WebDriverManager:920 - Filter cache by 84.0.4147.30 -- input list [/Users/ic/.m2/repository/webdriver/chromedriver/mac64/83.0.4103.39/chromedriver, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver] -- output list [/Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver] 
+2020-07-25 02:32:26,755 DEBUG [TestNG-tests-1] WebDriverManager:920 - Filter cache by MAC -- input list [/Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver] -- output list [/Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver] 
+2020-07-25 02:32:26,755 DEBUG [TestNG-tests-1] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:26,757 DEBUG [TestNG-tests-1] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:26,757 DEBUG [TestNG-tests-1] WebDriverManager:564 - Driver chromedriver 84.0.4147.30 found in cache
+2020-07-25 02:32:26,757  INFO [TestNG-tests-1] WebDriverManager:1113 - Exporting webdriver.chrome.driver as /Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-07-25 02:32:26,762 DEBUG [TestNG-tests-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:26,763 DEBUG [TestNG-tests-2] Preferences:118 - Preference chrome=84 (valid until 2020-07-25 03:18:19)
+2020-07-25 02:32:26,763 DEBUG [TestNG-tests-2] WebDriverManager:601 - Detected Google Chrome version 84
+2020-07-25 02:32:26,764 DEBUG [TestNG-tests-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:26,764 DEBUG [TestNG-tests-2] Preferences:118 - Preference chrome84=84.0.4147.30 (valid until 2020-07-25 03:18:19)
+2020-07-25 02:32:26,764  INFO [TestNG-tests-2] WebDriverManager:615 - Using chromedriver 84.0.4147.30 (since Google Chrome 84 is installed in your machine)
+2020-07-25 02:32:26,765 DEBUG [TestNG-tests-2] WebDriverManager:536 - Managing chromedriver arch=64 version=84.0.4147.30 getLatest=false cache=false
+2020-07-25 02:32:26,765 DEBUG [TestNG-tests-2] WebDriverManager:868 - Checking if chromedriver exists in cache
+2020-07-25 02:32:26,765 DEBUG [TestNG-tests-2] Downloader:116 - Target path /Users/ic/.m2/repository/webdriver
+2020-07-25 02:32:26,766 DEBUG [TestNG-tests-2] WebDriverManager:920 - Filter cache by chromedriver -- input list [/Users/ic/.m2/repository/webdriver/IEDriverServer/x64/3.150/IEDriverServer.exe, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/83.0.4103.39/chromedriver, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver, /Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver, /Users/ic/.m2/repository/webdriver/resolution.properties] -- output list [/Users/ic/.m2/repository/webdriver/chromedriver/mac64/83.0.4103.39/chromedriver, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver] 
+2020-07-25 02:32:26,767 DEBUG [TestNG-tests-2] WebDriverManager:920 - Filter cache by 84.0.4147.30 -- input list [/Users/ic/.m2/repository/webdriver/chromedriver/mac64/83.0.4103.39/chromedriver, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver] -- output list [/Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver] 
+2020-07-25 02:32:26,767 DEBUG [TestNG-tests-2] WebDriverManager:920 - Filter cache by MAC -- input list [/Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver] -- output list [/Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver] 
+2020-07-25 02:32:26,768 DEBUG [TestNG-tests-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:26,769 DEBUG [TestNG-tests-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:26,769 DEBUG [TestNG-tests-2] WebDriverManager:564 - Driver chromedriver 84.0.4147.30 found in cache
+2020-07-25 02:32:26,770  INFO [TestNG-tests-2] WebDriverManager:1113 - Exporting webdriver.chrome.driver as /Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-07-25 02:32:26,836 DEBUG [Finalizer] PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2020-07-25 02:32:26,836 DEBUG [Finalizer] PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2020-07-25 02:32:41,155 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:41,157 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] Preferences:93 - Removing preference firefox=78 (expired on 2020-07-24 10:49:59)
+2020-07-25 02:32:41,157 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:41,160 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] Preferences:118 - Preference chrome=84 (valid until 2020-07-25 03:18:19)
+2020-07-25 02:32:41,161 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:601 - Detected Google Chrome version 84
+2020-07-25 02:32:41,162 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] Shell:55 - Running command on the shell: [/Applications/Firefox.app/Contents/MacOS/firefox, -v]
+2020-07-25 02:32:41,163 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:41,166 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] Preferences:118 - Preference chrome84=84.0.4147.30 (valid until 2020-07-25 03:18:19)
+2020-07-25 02:32:41,167  INFO [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:615 - Using chromedriver 84.0.4147.30 (since Google Chrome 84 is installed in your machine)
+2020-07-25 02:32:41,167 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:536 - Managing chromedriver arch=64 version=84.0.4147.30 getLatest=false cache=false
+2020-07-25 02:32:41,168 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:868 - Checking if chromedriver exists in cache
+2020-07-25 02:32:41,169 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] Downloader:116 - Target path /Users/ic/.m2/repository/webdriver
+2020-07-25 02:32:41,173 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:920 - Filter cache by chromedriver -- input list [/Users/ic/.m2/repository/webdriver/IEDriverServer/x64/3.150/IEDriverServer.exe, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/83.0.4103.39/chromedriver, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver, /Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver, /Users/ic/.m2/repository/webdriver/resolution.properties] -- output list [/Users/ic/.m2/repository/webdriver/chromedriver/mac64/83.0.4103.39/chromedriver, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver] 
+2020-07-25 02:32:41,174 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:920 - Filter cache by 84.0.4147.30 -- input list [/Users/ic/.m2/repository/webdriver/chromedriver/mac64/83.0.4103.39/chromedriver, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver] -- output list [/Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver] 
+2020-07-25 02:32:41,174 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:920 - Filter cache by MAC -- input list [/Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver] -- output list [/Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver] 
+2020-07-25 02:32:41,175 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:41,177 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:41,177 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:564 - Driver chromedriver 84.0.4147.30 found in cache
+2020-07-25 02:32:41,178  INFO [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:1113 - Exporting webdriver.chrome.driver as /Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-07-25 02:32:41,365 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] Shell:57 - Result: Mozilla Firefox 78.0.2
+2020-07-25 02:32:41,366 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:601 - Detected Mozilla Firefox version 78
+2020-07-25 02:32:41,367 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:41,368 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] Preferences:93 - Removing preference firefox78=0.26.0 (expired on 2020-07-24 10:49:59)
+2020-07-25 02:32:41,369 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:685 - Getting driver version for firefox78 from online versions.properties
+2020-07-25 02:32:41,369 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:719 - Reading online version.properties to find out driver version
+2020-07-25 02:32:41,382 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] RequestAddCookies:123 - CookieSpec selected: standard
+2020-07-25 02:32:41,388 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] RequestAuthCache:77 - Auth cache not set in the context
+2020-07-25 02:32:41,389 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] PoolingHttpClientConnectionManager:265 - Connection request: [route: {s}->https://raw.githubusercontent.com:443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2020-07-25 02:32:41,406 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] PoolingHttpClientConnectionManager:309 - Connection leased: [id: 0][route: {s}->https://raw.githubusercontent.com:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2020-07-25 02:32:41,408 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] MainClientExec:235 - Opening connection {s}->https://raw.githubusercontent.com:443
+2020-07-25 02:32:41,450 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] DefaultHttpClientConnectionOperator:139 - Connecting to raw.githubusercontent.com/151.101.180.133:443
+2020-07-25 02:32:41,450 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] SSLConnectionSocketFactory:337 - Connecting socket to raw.githubusercontent.com/151.101.180.133:443 with timeout 0
+2020-07-25 02:32:41,521 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] SSLConnectionSocketFactory:390 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+2020-07-25 02:32:41,522 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] SSLConnectionSocketFactory:391 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2020-07-25 02:32:41,522 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] SSLConnectionSocketFactory:395 - Starting handshake
+2020-07-25 02:32:41,615 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] SSLConnectionSocketFactory:425 - Secure session established
+2020-07-25 02:32:41,617 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] SSLConnectionSocketFactory:426 -  negotiated protocol: TLSv1.2
+2020-07-25 02:32:41,622 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] SSLConnectionSocketFactory:427 -  negotiated cipher suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+2020-07-25 02:32:41,623 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] SSLConnectionSocketFactory:435 -  peer principal: CN=www.github.com, O="GitHub, Inc.", L=San Francisco, ST=California, C=US
+2020-07-25 02:32:41,624 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] SSLConnectionSocketFactory:444 -  peer alternative names: [www.github.com, *.github.com, github.com, *.github.io, github.io, *.githubusercontent.com, githubusercontent.com]
+2020-07-25 02:32:41,625 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] SSLConnectionSocketFactory:448 -  issuer principal: CN=DigiCert SHA2 High Assurance Server CA, OU=www.digicert.com, O=DigiCert Inc, C=US
+2020-07-25 02:32:41,627 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] DefaultHttpClientConnectionOperator:146 - Connection established 192.168.1.5:53378<->151.101.180.133:443
+2020-07-25 02:32:41,627 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] DefaultManagedHttpClientConnection:88 - http-outgoing-0: set socket timeout to 30000
+2020-07-25 02:32:41,628 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] MainClientExec:256 - Executing request GET /bonigarcia/webdrivermanager/master/src/main/resources/versions.properties HTTP/1.1
+2020-07-25 02:32:41,628 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] MainClientExec:261 - Target auth state: UNCHALLENGED
+2020-07-25 02:32:41,631 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] MainClientExec:267 - Proxy auth state: UNCHALLENGED
+2020-07-25 02:32:41,633 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:133 - http-outgoing-0 >> GET /bonigarcia/webdrivermanager/master/src/main/resources/versions.properties HTTP/1.1
+2020-07-25 02:32:41,633 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:136 - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.6
+2020-07-25 02:32:41,634 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:136 - http-outgoing-0 >> Connection: keep-alive
+2020-07-25 02:32:41,634 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:136 - http-outgoing-0 >> Host: raw.githubusercontent.com
+2020-07-25 02:32:41,634 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:136 - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2020-07-25 02:32:41,634 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 >> "GET /bonigarcia/webdrivermanager/master/src/main/resources/versions.properties HTTP/1.1[\r][\n]"
+2020-07-25 02:32:41,635 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.6[\r][\n]"
+2020-07-25 02:32:41,635 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 >> "Connection: keep-alive[\r][\n]"
+2020-07-25 02:32:41,635 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 >> "Host: raw.githubusercontent.com[\r][\n]"
+2020-07-25 02:32:41,635 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2020-07-25 02:32:41,636 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 >> "[\r][\n]"
+2020-07-25 02:32:41,693 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2020-07-25 02:32:41,693 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+2020-07-25 02:32:41,693 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "Content-Length: 794[\r][\n]"
+2020-07-25 02:32:41,694 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "Cache-Control: max-age=300[\r][\n]"
+2020-07-25 02:32:41,695 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox[\r][\n]"
+2020-07-25 02:32:41,695 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "Content-Type: text/plain; charset=utf-8[\r][\n]"
+2020-07-25 02:32:41,696 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "ETag: W/"b47642c60a94a1e5a044503c008bc79a84a899eb21a27c7d6e99b422d2da6e40"[\r][\n]"
+2020-07-25 02:32:41,697 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "Strict-Transport-Security: max-age=31536000[\r][\n]"
+2020-07-25 02:32:41,697 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+2020-07-25 02:32:41,698 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "X-Frame-Options: deny[\r][\n]"
+2020-07-25 02:32:41,698 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2020-07-25 02:32:41,698 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "Via: 1.1 varnish (Varnish/6.0)[\r][\n]"
+2020-07-25 02:32:41,699 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "X-GitHub-Request-Id: BB74:1779:27AED:32651:5F1BE120[\r][\n]"
+2020-07-25 02:32:41,700 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2020-07-25 02:32:41,701 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "Accept-Ranges: bytes[\r][\n]"
+2020-07-25 02:32:41,703 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "Date: Sat, 25 Jul 2020 07:37:09 GMT[\r][\n]"
+2020-07-25 02:32:41,704 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "Via: 1.1 varnish[\r][\n]"
+2020-07-25 02:32:41,704 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "X-Served-By: cache-iah17226-IAH[\r][\n]"
+2020-07-25 02:32:41,704 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "X-Cache: HIT, MISS[\r][\n]"
+2020-07-25 02:32:41,704 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "X-Cache-Hits: 1, 0[\r][\n]"
+2020-07-25 02:32:41,709 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "X-Timer: S1595662629.388169,VS0,VE38[\r][\n]"
+2020-07-25 02:32:41,710 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "Vary: Authorization,Accept-Encoding[\r][\n]"
+2020-07-25 02:32:41,710 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+2020-07-25 02:32:41,711 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "X-Fastly-Request-ID: 8913d9a01c8a7c47765262e5a19ebb98f7ec1034[\r][\n]"
+2020-07-25 02:32:41,711 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "Expires: Sat, 25 Jul 2020 07:42:09 GMT[\r][\n]"
+2020-07-25 02:32:41,713 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "Source-Age: 58[\r][\n]"
+2020-07-25 02:32:41,713 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "[\r][\n]"
+2020-07-25 02:32:41,717 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:122 - http-outgoing-0 << HTTP/1.1 200 OK
+2020-07-25 02:32:41,718 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:125 - http-outgoing-0 << Connection: keep-alive
+2020-07-25 02:32:41,718 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:125 - http-outgoing-0 << Content-Length: 794
+2020-07-25 02:32:41,719 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:125 - http-outgoing-0 << Cache-Control: max-age=300
+2020-07-25 02:32:41,719 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:125 - http-outgoing-0 << Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+2020-07-25 02:32:41,720 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:125 - http-outgoing-0 << Content-Type: text/plain; charset=utf-8
+2020-07-25 02:32:41,720 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:125 - http-outgoing-0 << ETag: W/"b47642c60a94a1e5a044503c008bc79a84a899eb21a27c7d6e99b422d2da6e40"
+2020-07-25 02:32:41,721 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:125 - http-outgoing-0 << Strict-Transport-Security: max-age=31536000
+2020-07-25 02:32:41,721 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:125 - http-outgoing-0 << X-Content-Type-Options: nosniff
+2020-07-25 02:32:41,721 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:125 - http-outgoing-0 << X-Frame-Options: deny
+2020-07-25 02:32:41,721 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:125 - http-outgoing-0 << X-XSS-Protection: 1; mode=block
+2020-07-25 02:32:41,721 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:125 - http-outgoing-0 << Via: 1.1 varnish (Varnish/6.0)
+2020-07-25 02:32:41,722 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:125 - http-outgoing-0 << X-GitHub-Request-Id: BB74:1779:27AED:32651:5F1BE120
+2020-07-25 02:32:41,722 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:125 - http-outgoing-0 << Content-Encoding: gzip
+2020-07-25 02:32:41,723 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:125 - http-outgoing-0 << Accept-Ranges: bytes
+2020-07-25 02:32:41,723 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:125 - http-outgoing-0 << Date: Sat, 25 Jul 2020 07:37:09 GMT
+2020-07-25 02:32:41,723 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:125 - http-outgoing-0 << Via: 1.1 varnish
+2020-07-25 02:32:41,724 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:125 - http-outgoing-0 << X-Served-By: cache-iah17226-IAH
+2020-07-25 02:32:41,724 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:125 - http-outgoing-0 << X-Cache: HIT, MISS
+2020-07-25 02:32:41,724 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:125 - http-outgoing-0 << X-Cache-Hits: 1, 0
+2020-07-25 02:32:41,724 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:125 - http-outgoing-0 << X-Timer: S1595662629.388169,VS0,VE38
+2020-07-25 02:32:41,725 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:125 - http-outgoing-0 << Vary: Authorization,Accept-Encoding
+2020-07-25 02:32:41,725 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:125 - http-outgoing-0 << Access-Control-Allow-Origin: *
+2020-07-25 02:32:41,725 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:125 - http-outgoing-0 << X-Fastly-Request-ID: 8913d9a01c8a7c47765262e5a19ebb98f7ec1034
+2020-07-25 02:32:41,725 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:125 - http-outgoing-0 << Expires: Sat, 25 Jul 2020 07:42:09 GMT
+2020-07-25 02:32:41,725 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] headers:125 - http-outgoing-0 << Source-Age: 58
+2020-07-25 02:32:41,731 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] MainClientExec:285 - Connection can be kept alive indefinitely
+2020-07-25 02:32:41,744 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0x8d][0x95][0xb9][0x8e][0xdb]0[0x10][0x86]{?[0x5][0x81]4I[0xb1][0x14]oR[0xb][0xb0][0xc9]Y[0x5])[0x92][0x17][0x90]m[0xda][0x16]V6[\r]J[0xbb]N[0xf2][0xf4][0xe1][0xa9][0xa5][0x89][0x4]H[0xf9][0x1a][0xe]G[0x9c][0xeb][\r][0xf8]q[0x1a]gp[0x18]'[0x3]v[0xf6][0xb2][0xc][0xe3]e[0x6][0xcb][0xc9][0x80][0xa7][0x8b][0xbd]][0xc0][0x8b]q[0xf3]h=:X[0x7][0xf6]n[0xc][0x1a][0xbc][0xdd][0x8e][0x97][0xc1][0xfd]z[0xe7][0xf][0x9c][0xaf][0xc3]2n[0xfd][0xd9][0xdb][0xb8][0x9c][0xe2][0xb9][0x9d]u[0xce][0xcc]W{[0xd9][0x8f][0x97]#[0xd8]:{[0x9b][0x8d]+~6[0x9b]7[0xe0]}B[0x8f][0xe0][0x8b][0xb5]G[0xf2][0xc3][0xc9][0xd9][0xb3][0x1][0xf][0xe0]ct[0xff][0x8]v[0x11][0xa4][0xcb][0xbc][0xfd]w[0xfb][0xec]v[0xe6][0x11][0x9c][0x96][0xe5][0xfa][0xd8]u[0xf5]W[0x18][0xc5][0xf8]|[0x86][0xd6][0x1d][0xbb][0xbd][0xf]x[0xb2][0xc3]~[0xde]$[0x1b][0xc5][0xb5][0xe2][0x10]A[0x86][0x15][0x85]T[0x15][0xca][0xb4]b[0x91]2[0x9])*[0x94]jo[0x14]([0xf2][0xb6]}[0xa1]X+[0x1c](b[0xc][0xe2]W[0x17]H+[0xe4]1[0xed][0x95][0x84][0x18][0x89][0x8c]e[0xaf]e[0x1f]1[0xe3][0x90][0xae]Ti[0xa9]"E[0xde][0x7][0xe2][0x5]K-e[0xc0]Jp[0xef][0xbf]P[0xa1][0xa5][0x88][0x14][0xf5][0x10][0x93][0xd5][0x7][0xd7]2[0xfc][0x9][0x95][0x12]A[0xfc]j[0xcd][0xb4]d[0x11][0x93][0x1e][0xae][0xb6]T[0xcb][0xf0]'T[0xf8][0x1f][0x12]%dI4[0x81]l[0xb5][0xc1]w[\n]"
+2020-07-25 02:32:41,746 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "[0x5]U[0x2][0x13]}P[0xac]([0x15][0x14])J[0x6][0x85][0x8b][0x12]A[0x95]`[0x4][0xf7]j}"[0xc1][0x82][0x92]E[0xd1][0xa0][0xca]}"[0xc4]B[0xd7][0xfb]B,t[0xbd]/[0xc4]B[0xe9]][0x9d]|[0xb5][0xbf][0xc7]i[0x1a][0xc0][0xe7][0xd1][0x99][0x83][0xfd]YU[0xca][0xd1][0xec][0x9e][0xec]_[0xb]e[0xf6][0x95]r[0xf4]%[0xf9][0xbc][0x85][0xbe]H[0xbb]sr[0xd1]U[0x7]:g&3[0xcc]f[0xde][0x1c][0x92]_[0x9f]([0x4][0x89][0xfd][0x15][0xc8][0x16][0x88][0x16][0xf0][0x16][0xb0][0x16][0xd0][0x16][0x90][0x16][0xe0][0x16][0xa0][0x6][0xf8][0x8c]4 F[0xca]+[0x10]#e[0x15][0x10]-[0xe0]-[0x88][0x91][0xd2][\n]"
+2020-07-25 02:32:41,749 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:73 - http-outgoing-0 << "[0xd0][0x16][0xc4]HI[0x5]b[0xa4][0xb8][0x2][0xa8][0x1][0xbc]o[0x81]j[0x81]lA[0x8c][0x14]U[0x80][0x17]P[0xd7][0xc0][0xb7][0xab]qC[0x95]y[0x1b][0xf4][0xff]d>[0x1a][0xce][0xf6][0xb0][0xdc][0x6]g[0x92]*C[0xa3][0xad][0x83][0xf8][0xd1]?[0xf6][0xeb] [0xe8]e[0x86][0xaa][0x9e][0x3][0x98]f*[0xef][0xc6][0x0][0xca]TTS@[0xf6][0x19][0xf2]j[0x8][0xa8][0xe2][0x95]U#[0x0][0x93]r[0x9e][0xd6]#[0x80][0x92]LI=[0x1][0xd6][0xbb]r[0xe7]F[0xc1][0xfb]Z[0xe4][0xbe]M"[0xb7]m[0x12][0xb9]k[0x93][0xc8]M[0x9b]D[0xee][0xd9]$r[0xcb]&[0x91];6[0x9][0x9c]Z4[0x9]T[0x9][0x16]"([0x11][0xb3][0x10][0x1][0xcd][0xf7][0xb0][0x10][0x1][0xc9][0x8f][0xc1]D[0x12]w=>[0xee][0x9c][\r]i[0x2][0x9f][0xf6][0xc7]z[0x19][0x9c]g[0xe3][0xc1]?3[0xbd]7/f[\n]"
+2020-07-25 02:32:41,749 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] wire:87 - http-outgoing-0 << "^[0xe1][0xb9]x[0x88]i7[0x97][0x87][0xe7][0xb9][[0xd9]Cp[0xd2]-[0xd6]Nsw3[0xdb][0x9c][0xf9]M[0xa0]Jh[0x15][0xde][0x9b][0x87][0xa9][0x99]H[0xde][0x1b]\[0xb0]B[0xf2][0xce][0xe0]d%e_[0xf8][0xb4]r[0x95][0x10][0xd1][0x8a][0x4][0xc4]}[0xde][0x12])[0xeb][0x3][0xb](eBeu[0x8][0xec][0xb])[0x99][0xad]{[0x3][0x97][0x8][0xca][0xce] [0xa1]>[0x12][0xc9][0xeb][0x82][0xd0][0x95][0xe4]U[0x11][0x96][&yK`[0xda][0xfb][0x6][0x8a][0x88]1}u[0xe6][0xc1][0xef][0xf4]e[0x98]&[0xb3]O[0x90]h[0x1][0xb1][0xc4]~[0xe8]F[0x89][0xb5]/?A[0xfa]>I[0xa4]}[0x8d]s$h[0x94]Ti[0xea]W[0xe][0xed][0x93]$[0xa1]`[0xfc][0x16]S"I[0xa4][0xfd] [0xe2][0xeb][0xe9][0xf][0xd1][0x9e][0xc1][0xf]I[0x8][0x0][0x0]"
+2020-07-25 02:32:41,750 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] PoolingHttpClientConnectionManager:341 - Connection [id: 0][route: {s}->https://raw.githubusercontent.com:443] can be kept alive indefinitely
+2020-07-25 02:32:41,750 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] DefaultManagedHttpClientConnection:88 - http-outgoing-0: set socket timeout to 0
+2020-07-25 02:32:41,751 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] PoolingHttpClientConnectionManager:348 - Connection released: [id: 0][route: {s}->https://raw.githubusercontent.com:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2020-07-25 02:32:41,751  INFO [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:615 - Using geckodriver 0.26.0 (since Mozilla Firefox 78 is installed in your machine)
+2020-07-25 02:32:41,753 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] Preferences:66 - Storing preference firefox=78 (valid until 2020-07-26 02:32:41)
+2020-07-25 02:32:41,753 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:536 - Managing geckodriver arch=64 version=0.26.0 getLatest=false cache=false
+2020-07-25 02:32:41,754 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:868 - Checking if geckodriver exists in cache
+2020-07-25 02:32:41,754 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] Downloader:116 - Target path /Users/ic/.m2/repository/webdriver
+2020-07-25 02:32:41,755 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:920 - Filter cache by geckodriver -- input list [/Users/ic/.m2/repository/webdriver/IEDriverServer/x64/3.150/IEDriverServer.exe, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/83.0.4103.39/chromedriver, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver, /Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver, /Users/ic/.m2/repository/webdriver/resolution.properties] -- output list [/Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver] 
+2020-07-25 02:32:41,755 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:920 - Filter cache by 0.26.0 -- input list [/Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver] -- output list [/Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver] 
+2020-07-25 02:32:41,756 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:920 - Filter cache by MAC -- input list [/Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver] -- output list [/Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver] 
+2020-07-25 02:32:41,756 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:41,757 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] Preferences:66 - Storing preference firefox78=0.26.0 (valid until 2020-07-26 02:32:41)
+2020-07-25 02:32:41,759 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:41,759 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:564 - Driver geckodriver 0.26.0 found in cache
+2020-07-25 02:32:41,760  INFO [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:1113 - Exporting webdriver.gecko.driver as /Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver
+2020-07-25 02:32:42,498  INFO [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] LoginPageTest:70 - url is launched https://app.hubspot.com/login
+2020-07-25 02:32:42,511  INFO [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] LoginPageTest:83 - starting ------------->>> verifyLoginPagetest
+2020-07-25 02:32:45,296  INFO [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] LoginPageTest:70 - url is launched https://app.hubspot.com/login
+2020-07-25 02:32:45,300  INFO [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] LoginPageTest:83 - starting ------------->>> verifyLoginPagetest
+2020-07-25 02:32:47,695  INFO [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] LoginPageTest:89 - ending ------------->>> verifyLoginPagetest
+2020-07-25 02:32:47,695  WARN [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] LoginPageTest:90 - Some warning
+2020-07-25 02:32:47,695 ERROR [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] LoginPageTest:91 - Some error
+2020-07-25 02:32:47,695 FATAL [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] LoginPageTest:92 - Fatal error
+2020-07-25 02:32:47,787 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:47,788 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] Preferences:118 - Preference chrome=84 (valid until 2020-07-25 03:18:19)
+2020-07-25 02:32:47,788 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:601 - Detected Google Chrome version 84
+2020-07-25 02:32:47,788 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:47,788 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] Preferences:118 - Preference chrome84=84.0.4147.30 (valid until 2020-07-25 03:18:19)
+2020-07-25 02:32:47,788  INFO [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:615 - Using chromedriver 84.0.4147.30 (since Google Chrome 84 is installed in your machine)
+2020-07-25 02:32:47,788 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:536 - Managing chromedriver arch=64 version=84.0.4147.30 getLatest=false cache=false
+2020-07-25 02:32:47,789 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:868 - Checking if chromedriver exists in cache
+2020-07-25 02:32:47,789 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] Downloader:116 - Target path /Users/ic/.m2/repository/webdriver
+2020-07-25 02:32:47,790 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:920 - Filter cache by chromedriver -- input list [/Users/ic/.m2/repository/webdriver/IEDriverServer/x64/3.150/IEDriverServer.exe, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/83.0.4103.39/chromedriver, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver, /Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver, /Users/ic/.m2/repository/webdriver/resolution.properties] -- output list [/Users/ic/.m2/repository/webdriver/chromedriver/mac64/83.0.4103.39/chromedriver, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver] 
+2020-07-25 02:32:47,790 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:920 - Filter cache by 84.0.4147.30 -- input list [/Users/ic/.m2/repository/webdriver/chromedriver/mac64/83.0.4103.39/chromedriver, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver] -- output list [/Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver] 
+2020-07-25 02:32:47,790 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:920 - Filter cache by MAC -- input list [/Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver] -- output list [/Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver] 
+2020-07-25 02:32:47,790 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:47,791 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:47,791 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:564 - Driver chromedriver 84.0.4147.30 found in cache
+2020-07-25 02:32:47,791  INFO [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:1113 - Exporting webdriver.chrome.driver as /Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-07-25 02:32:48,889  INFO [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] LoginPageTest:70 - url is launched https://app.hubspot.com/login
+2020-07-25 02:32:49,364  INFO [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] LoginPageTest:89 - ending ------------->>> verifyLoginPagetest
+2020-07-25 02:32:49,364  WARN [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] LoginPageTest:90 - Some warning
+2020-07-25 02:32:49,364 ERROR [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] LoginPageTest:91 - Some error
+2020-07-25 02:32:49,364 FATAL [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] LoginPageTest:92 - Fatal error
+2020-07-25 02:32:54,719 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:54,719 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] Preferences:118 - Preference firefox=78 (valid until 2020-07-26 02:32:41)
+2020-07-25 02:32:54,720 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:601 - Detected Mozilla Firefox version 78
+2020-07-25 02:32:54,720 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:54,721 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] Preferences:118 - Preference firefox78=0.26.0 (valid until 2020-07-26 02:32:41)
+2020-07-25 02:32:54,721  INFO [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:615 - Using geckodriver 0.26.0 (since Mozilla Firefox 78 is installed in your machine)
+2020-07-25 02:32:54,721 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:536 - Managing geckodriver arch=64 version=0.26.0 getLatest=false cache=false
+2020-07-25 02:32:54,722 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:868 - Checking if geckodriver exists in cache
+2020-07-25 02:32:54,722 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] Downloader:116 - Target path /Users/ic/.m2/repository/webdriver
+2020-07-25 02:32:54,724 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:920 - Filter cache by geckodriver -- input list [/Users/ic/.m2/repository/webdriver/IEDriverServer/x64/3.150/IEDriverServer.exe, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/83.0.4103.39/chromedriver, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver, /Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver, /Users/ic/.m2/repository/webdriver/resolution.properties] -- output list [/Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver] 
+2020-07-25 02:32:54,724 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:920 - Filter cache by 0.26.0 -- input list [/Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver] -- output list [/Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver] 
+2020-07-25 02:32:54,725 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:920 - Filter cache by MAC -- input list [/Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver] -- output list [/Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver] 
+2020-07-25 02:32:54,725 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:54,726 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:54,727 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:564 - Driver geckodriver 0.26.0 found in cache
+2020-07-25 02:32:54,727  INFO [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:1113 - Exporting webdriver.gecko.driver as /Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver
+2020-07-25 02:32:57,405 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:57,406 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] Preferences:118 - Preference chrome=84 (valid until 2020-07-25 03:18:19)
+2020-07-25 02:32:57,406 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:601 - Detected Google Chrome version 84
+2020-07-25 02:32:57,407 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:57,407 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] Preferences:118 - Preference chrome84=84.0.4147.30 (valid until 2020-07-25 03:18:19)
+2020-07-25 02:32:57,407  INFO [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:615 - Using chromedriver 84.0.4147.30 (since Google Chrome 84 is installed in your machine)
+2020-07-25 02:32:57,408  INFO [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] LoginPageTest:70 - url is launched https://app.hubspot.com/login
+2020-07-25 02:32:57,408 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:536 - Managing chromedriver arch=64 version=84.0.4147.30 getLatest=false cache=false
+2020-07-25 02:32:57,408 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:868 - Checking if chromedriver exists in cache
+2020-07-25 02:32:57,409 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] Downloader:116 - Target path /Users/ic/.m2/repository/webdriver
+2020-07-25 02:32:57,410 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:920 - Filter cache by chromedriver -- input list [/Users/ic/.m2/repository/webdriver/IEDriverServer/x64/3.150/IEDriverServer.exe, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/83.0.4103.39/chromedriver, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver, /Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver, /Users/ic/.m2/repository/webdriver/resolution.properties] -- output list [/Users/ic/.m2/repository/webdriver/chromedriver/mac64/83.0.4103.39/chromedriver, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver] 
+2020-07-25 02:32:57,411 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:920 - Filter cache by 84.0.4147.30 -- input list [/Users/ic/.m2/repository/webdriver/chromedriver/mac64/83.0.4103.39/chromedriver, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver] -- output list [/Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver] 
+2020-07-25 02:32:57,411 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:920 - Filter cache by MAC -- input list [/Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver] -- output list [/Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver] 
+2020-07-25 02:32:57,412 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:57,413 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:32:57,414 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:564 - Driver chromedriver 84.0.4147.30 found in cache
+2020-07-25 02:32:57,415  INFO [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] WebDriverManager:1113 - Exporting webdriver.chrome.driver as /Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-07-25 02:32:58,559  INFO [TestNG-test=HubSpot Fuctional Regression Test -- chrome-2] LoginPageTest:70 - url is launched https://app.hubspot.com/login
+2020-07-25 02:33:04,833 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:33:04,833 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] Preferences:118 - Preference firefox=78 (valid until 2020-07-26 02:32:41)
+2020-07-25 02:33:04,834 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:601 - Detected Mozilla Firefox version 78
+2020-07-25 02:33:04,834 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:33:04,834 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] Preferences:118 - Preference firefox78=0.26.0 (valid until 2020-07-26 02:32:41)
+2020-07-25 02:33:04,835  INFO [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:615 - Using geckodriver 0.26.0 (since Mozilla Firefox 78 is installed in your machine)
+2020-07-25 02:33:04,835 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:536 - Managing geckodriver arch=64 version=0.26.0 getLatest=false cache=false
+2020-07-25 02:33:04,835 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:868 - Checking if geckodriver exists in cache
+2020-07-25 02:33:04,836 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] Downloader:116 - Target path /Users/ic/.m2/repository/webdriver
+2020-07-25 02:33:04,838 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:920 - Filter cache by geckodriver -- input list [/Users/ic/.m2/repository/webdriver/IEDriverServer/x64/3.150/IEDriverServer.exe, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/83.0.4103.39/chromedriver, /Users/ic/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver, /Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver, /Users/ic/.m2/repository/webdriver/resolution.properties] -- output list [/Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver] 
+2020-07-25 02:33:04,838 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:920 - Filter cache by 0.26.0 -- input list [/Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver] -- output list [/Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver] 
+2020-07-25 02:33:04,838 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:920 - Filter cache by MAC -- input list [/Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver] -- output list [/Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver] 
+2020-07-25 02:33:04,839 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:33:04,840 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:634 - Using preferences true
+2020-07-25 02:33:04,840 DEBUG [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:564 - Driver geckodriver 0.26.0 found in cache
+2020-07-25 02:33:04,841  INFO [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] WebDriverManager:1113 - Exporting webdriver.gecko.driver as /Users/ic/.m2/repository/webdriver/geckodriver/macos/0.26.0/geckodriver
+2020-07-25 02:33:07,542  INFO [TestNG-test=HubSpot Fuctional Regression Test -- firefox-2] LoginPageTest:70 - url is launched https://app.hubspot.com/login
+2020-07-25 02:33:08,374 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-07-25 02:33:08,375 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-07-25 02:33:08,377 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-07-25 02:33:08,377 DEBUG [TestNG-tests-2] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/Users/ic/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-07-25 02:33:08,502 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-07-25 02:33:08,502 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-07-25 02:33:08,503 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-07-25 02:33:08,503 DEBUG [TestNG-tests-2] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/Users/ic/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-07-25 02:33:08,505 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-07-25 02:33:08,506 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-07-25 02:33:08,506 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-07-25 02:33:08,507 DEBUG [TestNG-tests-2] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/Users/ic/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-07-25 02:33:08,515 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-07-25 02:33:08,516 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-07-25 02:33:08,517 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-07-25 02:33:08,517 DEBUG [TestNG-tests-2] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/ic/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-07-25 02:33:08,543 DEBUG [Finalizer] PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2020-07-25 02:33:08,544 DEBUG [Finalizer] PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2020-07-25 02:33:08,545 DEBUG [Finalizer] PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2020-07-25 02:33:08,545 DEBUG [Finalizer] DefaultManagedHttpClientConnection:79 - http-outgoing-0: Close connection
+2020-07-25 02:33:08,547 DEBUG [Finalizer] PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2020-07-25 02:33:08,548 DEBUG [Finalizer] PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2020-07-25 02:33:08,548 DEBUG [Finalizer] PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2020-07-25 02:33:08,548 DEBUG [Finalizer] PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2020-07-25 02:33:08,549 DEBUG [Finalizer] PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2020-07-25 02:33:08,550 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-07-25 02:33:08,551 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-07-25 02:33:08,551 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-07-25 02:33:08,551 DEBUG [TestNG-tests-2] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/Users/ic/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-07-25 02:33:08,561 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-07-25 02:33:08,562 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-07-25 02:33:08,562 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-07-25 02:33:08,563 DEBUG [TestNG-tests-2] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/Users/ic/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-07-25 02:33:08,576 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-07-25 02:33:08,577 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-07-25 02:33:08,578 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-07-25 02:33:08,580 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-07-25 02:33:08,581 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-07-25 02:33:08,582 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-07-25 02:33:08,583 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-07-25 02:33:08,585 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-07-25 02:33:08,585 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-07-25 02:33:08,586 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-07-25 02:33:08,587 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-07-25 02:33:08,587 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-07-25 02:33:08,588 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-07-25 02:33:08,588 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-07-25 02:33:08,588 DEBUG [TestNG-tests-2] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/ic/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-07-25 02:33:08,594 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-07-25 02:33:08,594 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-07-25 02:33:08,594 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-07-25 02:33:08,594 DEBUG [TestNG-tests-2] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/ic/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-07-25 02:33:08,598 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-07-25 02:33:08,598 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-07-25 02:33:08,599 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-07-25 02:33:08,599 DEBUG [TestNG-tests-2] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/ic/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-07-25 02:33:08,601 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-07-25 02:33:08,602 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-07-25 02:33:08,602 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-07-25 02:33:08,602 DEBUG [TestNG-tests-2] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/ic/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-07-25 02:33:08,607 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-07-25 02:33:08,607 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-07-25 02:33:08,607 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-07-25 02:33:08,608 DEBUG [TestNG-tests-2] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/ic/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2020-07-25 02:33:19,562 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-07-25 02:33:19,563 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-07-25 02:33:19,563 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-07-25 02:33:19,564 DEBUG [TestNG-tests-1] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/Users/ic/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-07-25 02:33:19,573 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-07-25 02:33:19,574 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-07-25 02:33:19,575 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-07-25 02:33:19,575 DEBUG [TestNG-tests-1] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/Users/ic/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-07-25 02:33:19,577 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-07-25 02:33:19,578 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-07-25 02:33:19,579 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-07-25 02:33:19,579 DEBUG [TestNG-tests-1] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/Users/ic/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-07-25 02:33:19,582 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-07-25 02:33:19,582 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-07-25 02:33:19,583 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-07-25 02:33:19,583 DEBUG [TestNG-tests-1] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/ic/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-07-25 02:33:19,587 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-07-25 02:33:19,587 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-07-25 02:33:19,587 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-07-25 02:33:19,587 DEBUG [TestNG-tests-1] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/Users/ic/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-07-25 02:33:19,591 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-07-25 02:33:19,591 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-07-25 02:33:19,592 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-07-25 02:33:19,592 DEBUG [TestNG-tests-1] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/Users/ic/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-07-25 02:33:19,595 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-07-25 02:33:19,596 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-07-25 02:33:19,597 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-07-25 02:33:19,598 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-07-25 02:33:19,599 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-07-25 02:33:19,599 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-07-25 02:33:19,600 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-07-25 02:33:19,600 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-07-25 02:33:19,600 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-07-25 02:33:19,601 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-07-25 02:33:19,601 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-07-25 02:33:19,601 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-07-25 02:33:19,601 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-07-25 02:33:19,602 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-07-25 02:33:19,602 DEBUG [TestNG-tests-1] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/ic/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-07-25 02:33:19,605 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-07-25 02:33:19,605 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-07-25 02:33:19,605 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-07-25 02:33:19,605 DEBUG [TestNG-tests-1] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/ic/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-07-25 02:33:19,607 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-07-25 02:33:19,607 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-07-25 02:33:19,607 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-07-25 02:33:19,607 DEBUG [TestNG-tests-1] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/ic/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-07-25 02:33:19,608 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-07-25 02:33:19,609 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-07-25 02:33:19,609 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-07-25 02:33:19,609 DEBUG [TestNG-tests-1] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/ic/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-07-25 02:33:19,612 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-07-25 02:33:19,612 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-07-25 02:33:19,613 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-07-25 02:33:19,613 DEBUG [TestNG-tests-1] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/ic/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
